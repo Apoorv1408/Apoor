@@ -1,8 +1,7 @@
 Personal Portfolio Website
 Welcome to my portfolio website repository! This site is designed to showcase my skills, projects, and professional experience. The website is built with modern web technologies and is fully responsive, ensuring optimal viewing on both desktop and mobile devices.
 
-Website Preview
-You can view the live version of the portfolio website here: Live Website URL
+
 
 Features
 Responsive Design: The website is fully responsive and adjusts to different screen sizes.
@@ -17,7 +16,7 @@ JavaScript: For adding interactivity and dynamic content.
 [Optional] Framework or Library: React
 How to Install and Run Locally
 Clone the repository:
-git clone https://github.com/Hritik-ByteME/Personal-Portfolio.git
+git clone https://github.com/Apoor-ByteME/Personal-Portfolio.git
 Navigate to the project directory:
 cd Personal-Portfolio
 install dependencies in project:
